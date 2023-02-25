@@ -1,3 +1,9 @@
+Prueba elaborada por Harold Lopez. Acontinuación explico como descargar y compilar de manera exitsa el proyecto.
+
+PASO 1: Clona el repositorio
+
+PASO 2: desde tu consola de git accede al proyecto y ejecuta el comando git pull origin master --allow-unrelated-histories
+PASO 3: Desde tu editor de codigo de preferencia y dentro de la raiz del proyecto, ejecuta npm install y posteriormente npm start.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
